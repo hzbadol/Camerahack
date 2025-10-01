@@ -73,13 +73,13 @@ pip install requests aiohttp pyfiglet colorama
 ## Usage
 Run and clone the script:
 ```
-git clone https://github.com/badol/W8CameraHackV1
+git clone https://github.com/hzbadol/Camerahack.git
 ```
 ```
-cd W8CameraHackV1
+cd Camerahack
 ```
 ```
-python W8CameraHackV1.py
+python Camerahack.py
 ```
 
 
@@ -160,7 +160,7 @@ This tool is for educational and authorized security testing purposes only. Alwa
 [![GitHub](https://img.shields.io/badge/GitHub-badol-181717?style=for-the-badge&logo=github)](https://github.com/badol)
 [![Profile Views](https://komarev.com/ghpvc/?username=badol&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/badol)
 
-**Team:** W8Team  
+**Team:** AiwTeam  
 **Contact:** [GitHub Profile](https://github.com/badol)
 
 </div>
@@ -173,7 +173,7 @@ This tool is for educational and authorized security testing purposes only. Alwa
 
 ### Original Components
 - 📡 All ASN Collector (IP Range Fetcher)
-- 📹 W8IPCameraHK V4 (Camera Scanner)
+- 📹 IPCameraHK V4 (Camera Scanner)
 - 🔧 Combined & Optimized by badol for Termux Support
 
 ---
@@ -185,6 +185,7 @@ This tool is for educational and authorized security testing purposes only. Alwa
 Made with ❤️ by [@badol_112]
 
 </div>
+
 
 
 
